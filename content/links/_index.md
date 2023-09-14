@@ -7,10 +7,10 @@ hidden : true
 # 友情链接
 #### [自行添加](https://github.com/Fantasy9527/alili.tech/blob/master/content/links/_index.md)
 
-
  - [颜海镜](https://yanhaijing.com/)
  - [phith0n](https://www.leavesongs.com/)
  - [Web前端之家](http://www.jiangweishan.com/)
+ - [芈渡网](https://www.lllomh.com/)
  - [Nine](https://www.hellonine.top/)
  - [zzzmh's blog](https://zzzmh.cn/)
  - [yugasun](https://yugasun.com)
@@ -28,7 +28,7 @@ hidden : true
  - [雨落泪尽](https://couqiao.net/)
  - [轩枫阁](https://www.xuanfengge.com/)
  - [一只羊博客](http://www.asheep.cn/)
- - [scarsu](https://www.scarsu.com//)
+ - [scarsu](https://www.scarsu.com/)
 
 
 
